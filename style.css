@@ -1,3 +1,16 @@
-*{
-    align-items: center;
+html,body{
+   
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+canvas {
+    background-color: #e2c0e9;
+}
+
+
+.site{
+    position: absolute;
+    z-index: 50;
 }
